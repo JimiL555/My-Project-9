@@ -93,11 +93,11 @@ Printing movie queue!
 	5.	Eternal Sunshine of the Spotless Mind
 	6.	The Matrix
 	7.	Mr. Nobody
-  
+
   ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
+  ## License
 
 This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
