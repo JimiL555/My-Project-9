@@ -69,6 +69,6 @@ If you have any questions, you can find me at:
 ## WALKTHROUGH VIDEO ##
 
     Click here to watch the walkthrough video demonstrating the functionality of the README Generator:
-    /Users/jsliapis/Documents/Bootcamp/My-Projects/My-Project-9/utils/HowToMyProject9.webm
+    <iframe src="https://drive.google.com/file/d/1SWJ0quSj0f0tA3f0U_MvHlLMAjTDwHqN/preview" width="640" height="480"></iframe>
 
 
