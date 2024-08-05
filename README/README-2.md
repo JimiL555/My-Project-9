@@ -70,9 +70,6 @@ If you have any questions, you can find me at:
 
     Click here to watch the walkthrough video demonstrating the functionality of the README Generator:
 
-    https://github.com/JimiL555/My-Project-9/blob/5d4156f4384c8a0a2dd340e06e2d2d164b4c0e85/utils/MyHowToVideoProject9.webm
-    
+    /Users/jsliapis/Documents/Bootcamp/My-Projects/My-Project-9/utils/MyHowToVideoProject9.mov
 
-    /Users/jsliapis/Documents/Bootcamp/My-Projects/My-Project-9/utils/MyHow2VideoProject9.gif
-
-    https://drive.google.com/file/d/1SWJ0quSj0f0tA3f0U_MvHlLMAjTDwHqN/view
+  
